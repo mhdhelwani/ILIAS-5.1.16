@@ -1,0 +1,31 @@
+## Directory-based project format:
+.idea/
+
+# /
+/.buildpath
+/.htaccess
+/extern
+/*.bak
+/.project
+/.cache
+/data
+/ilias.ini.php
+/.settings
+/nbproject
+/.idea
+/ilias.log
+/xml
+.DS_Store
+*~
+db_template_writer.php
+.svn
+/setup
+/sso
+/cron
+/dicto
+/docs
+/include
+/lang
+/templates
+/webservice
+/Customizing/Global
