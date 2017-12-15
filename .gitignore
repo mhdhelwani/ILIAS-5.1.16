@@ -29,3 +29,6 @@ db_template_writer.php
 /templates
 /webservice
 /Customizing/Global
+
+!/Customizing/Global/skin/myskin/Services
+!/Customizing/Global/skin/myskin/Modules
